@@ -1,0 +1,12 @@
+{
+    "title": "Sistema de Informação de Arte Espírita",
+    "theme": {
+        "colors": {
+            "primary": "#e0f7fa",
+            "primaryBg": "#e0f7fa",
+            "primaryLight": "#ffffff",
+            "primaryDark": "#aec4c7",
+            "primaryText": "#0000FF"
+        }
+    }    
+}

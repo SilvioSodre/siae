@@ -1,6 +1,7 @@
 {
   "name": "with-styled-components",
   "version": "1.0.0",
+  "author": "Silvio Sodré",
   "scripts": {
     "dev": "next",
     "build": "next build",
